@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\Coroutines.cs" />
     <Compile Include="Assets\Scripts\EnemyCollision.cs" />
     <Compile Include="Assets\Scripts\EnemyNavigation.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\UIFunctions.cs" />
     <Compile Include="Assets\Scripts\ZombieDrag.cs" />
     <Compile Include="Assets\Scripts\ZombieSpawner.cs" />

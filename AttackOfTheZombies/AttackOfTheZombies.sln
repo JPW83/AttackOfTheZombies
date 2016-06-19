@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackOfTheZombies.CSharp", "AttackOfTheZombies.CSharp.csproj", "{44BFDC3E-AA69-BA3B-EC40-837BF8A9EA74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttackOfTheZombies.CSharp.Editor", "AttackOfTheZombies.CSharp.Editor.csproj", "{EF2AA494-238D-3281-F494-F8B2A5377B75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{44BFDC3E-AA69-BA3B-EC40-837BF8A9EA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44BFDC3E-AA69-BA3B-EC40-837BF8A9EA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44BFDC3E-AA69-BA3B-EC40-837BF8A9EA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF2AA494-238D-3281-F494-F8B2A5377B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2AA494-238D-3281-F494-F8B2A5377B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2AA494-238D-3281-F494-F8B2A5377B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2AA494-238D-3281-F494-F8B2A5377B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
